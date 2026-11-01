@@ -1,0 +1,52 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >> endobj
+4 0 obj << /Length 720 >> stream
+BT
+/F1 24 Tf
+50 720 Td
+(ASHWANTH - RESUME PLACEHOLDER) Tj
+/F1 12 Tf
+0 -30 Td
+(Location: Chennai, Tamil Nadu, India | GitHub: https://github.com/ashwanth007-d) Tj
+0 -25 Td
+(Education: 2nd Year Computer Science Engineering Student) Tj
+0 -25 Td
+(Professional Identity: Software Developer | Tech Enthusiast | Innovator | Digital Marketer) Tj
+0 -35 Td
+(TECHNICAL SKILLS: Java, Python, C, HTML, CSS, JavaScript, React, Firebase, Git, UI/UX) Tj
+0 -20 Td
+(PROFESSIONAL SKILLS: Digital Marketing, Problem Solving, Team Collaboration, Project Management) Tj
+0 -35 Td
+(PROJECTS:) Tj
+0 -20 Td
+(- AgriCalendar: Agriculture-focused digital solution for crop planning) Tj
+0 -20 Td
+(- Emergency Ambulance Route Coordination System: Smart emergency coordination concept) Tj
+0 -20 Td
+(- HeartGuard: ECG-based arrhythmia detection concept) Tj
+0 -20 Td
+(- Q-SHIELD: BB84 Quantum key distribution & eavesdropping detection) Tj
+0 -20 Td
+(- Intelligent Log Analytics & Threat Detection Engine: Java cybersecurity engine) Tj
+0 -35 Td
+(ACHIEVEMENT: 2nd Place - Hack the Blockchain | Rajalakshmi Engineering College) Tj
+0 -25 Td
+(EXPERIENCE: Techno Power Solutions, GYO Neural, GoldenZ Visions, FortQ) Tj
+ET
+endstream
+endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000069 00000 n 
+0000000130 00000 n 
+0000000257 00000 n 
+0000001030 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+1110
+%%EOF

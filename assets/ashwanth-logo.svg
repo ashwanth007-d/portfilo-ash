@@ -1,0 +1,23 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ashGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a78bfa" />
+      <stop offset="50%" stop-color="#c084fc" />
+      <stop offset="100%" stop-color="#818cf8" />
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#302b63" />
+      <stop offset="100%" stop-color="#0f0c29" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#bgGrad)" stroke="#a78bfa" stroke-opacity="0.3" stroke-width="1.5" />
+  <!-- Tech Monogram A with code brackets -->
+  <path d="M16 38L10 32L16 26" stroke="#a78bfa" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M48 26L54 32L48 38" stroke="#a78bfa" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Letter A -->
+  <path d="M32 17L22 45H27.5L29.8 38.5H34.2L36.5 45H42L32 17ZM32 23.5L33.6 33.5H30.4L32 23.5Z" fill="url(#ashGrad)" filter="url(#glow)" />
+</svg>
